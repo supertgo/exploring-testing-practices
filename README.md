@@ -37,6 +37,6 @@ Com base nos dados obtidos, selecione uma prática ou dado de teste relevante e 
 
 ## Respostas
 
-**1. Repositório selecionado:** `<URL_DO_REPOSITÓRIO_AQUI>`
+**1. Repositório selecionado:** `[Angular CLI](https://github.com/angular/angular-cli)`
 
-**2. Explicação:** `<SUA_EXPLICAÇÃO_AQUI>`
+**2. Explicação:** `A análise da evolução dos testes end-to-end (E2E) no repositório do angular-cli ao longo de suas versões demonstra a crescente preocupação da equipe em garantir a qualidade do projeto. Inicialmente sem testes E2E, o número cresceu progressivamente até a versão 8.1.3, indicando a maturidade adquirida. Apesar de uma redução na versão 13.0.2, provavelmente devido a refatorações, as versões mais recentes apresentaram um aumento nos testes E2E, sugerindo a ampliação da cobertura de testes e a adição de novos fluxos. Esse crescimento gradual reforça a importância dada pela equipe aos testes automatizados de ponta-a-ponta para assegurar o funcionamento correto da aplicação.`
